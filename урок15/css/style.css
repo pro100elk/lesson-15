@@ -1,0 +1,17 @@
+
+
+a[href="#blog"]{
+  color: red;
+}
+
+p.text--bold{
+  color: red;
+}
+
+.parent>.child{
+  color: gold;
+}
+
+.parent-1>.child-1 {
+  color: orange;
+}
